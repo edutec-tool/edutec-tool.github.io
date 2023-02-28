@@ -15,8 +15,8 @@
           steps: [
           {
             element: '.step0',
-            intro: 'This guided tour will explain how Open Learning Analytics Indicator Repository (OpenLAIR) can be used. <br> You can Exit the tour anytime you want.',
-            position: 'bottom'
+            intro: 'This guided tour will explain how Learning Analytics indicators archive OpenLAIR can be used. <br> You can Exit the tour anytime you want.',
+            position: 'right'
           },
           {
             element: '.stepDefine',
@@ -55,7 +55,7 @@
           },
           {
             element: '.stepVisualize',
-            intro: "Step 6: After selecting the indicator(s), CLICK here to VISUALIZE the chosen indicator(s).. <br> <br> NOTE: The selected indicators that are similar will be plotted in a single visualization type. <br> <br> For example the selected indicators 'Predict Student Grades [115]' and 'Predict Final Grade [119]' will be plotted in a single visualization type.",
+            intro: "Step 6: After selecting the indicator(s), CLICK here to VISUALIZE the chosen indicator(s). This will give you an idea of what type of visualization type one can use. <br> You can also download the Dashboard and use it as a mockup (e.g., for meetings/presentations). <br> <br> NOTE: The selected indicators that are similar will be plotted in a single visualization type. <br> <br> For example the selected indicators 'Predict Student Grades [115]' and 'Predict Final Grade [119]' will be plotted in a single visualization type.",
             position: 'bottom'
           },
           {
