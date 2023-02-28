@@ -16,7 +16,7 @@
           {
             element: '.step0',
             intro: 'This guided tour will explain how Learning Analytics indicators archive OpenLAIR can be used. <br> You can Exit the tour anytime you want.',
-            position: 'right'
+            position: 'bottom'
           },
           {
             element: '.stepDefine',

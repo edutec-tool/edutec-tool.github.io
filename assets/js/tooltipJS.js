@@ -99,7 +99,7 @@ $(document).ready(function() {
   });
 
   $('#tooltipHeaderLogo').tooltipster({   
-    //'theme': 'tooltipster-shadow',
+    'theme': 'tooltipster-shadow',
   'interactive': true,
   'contentAsHTML': true,
   //'autoClose': true,
