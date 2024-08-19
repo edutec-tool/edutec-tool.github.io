@@ -1078,6 +1078,7 @@ const routes = [
     { path: "dashboard", component: _component_dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_23__["DashboardComponent"] },
     { path: "display/data", component: _component_display_display_component__WEBPACK_IMPORTED_MODULE_18__["DisplayComponent"] },
     { path: "", redirectTo: "display/data", pathMatch: "full" },
+    { path: "reference", redirectTo: "reference", pathMatch: "full" },
 ];
 let AppModule = class AppModule {
 };

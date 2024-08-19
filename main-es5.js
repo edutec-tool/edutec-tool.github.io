@@ -1682,6 +1682,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       path: "",
       redirectTo: "display/data",
       pathMatch: "full"
+    }, {
+      path: "reference",
+      redirectTo: "reference",
+      pathMatch: "full"
     }];
 
     var AppModule = function AppModule() {
