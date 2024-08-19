@@ -8169,7 +8169,7 @@ let DataService = class DataService {
         //uri = 'http://localhost:49160/openlair'
         //68.65.123.130    OLD
         //198.187.29.73
-        this.uri = 'https://backendv2.openlair.edutec.science/openlair'; //live
+        this.uri = 'https://backend.openlair.edutec.science/openlair'; //live
     }
     getdata() {
         return this.http.get(`${this.uri}/display/data`);

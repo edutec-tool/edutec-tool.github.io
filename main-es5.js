@@ -9736,7 +9736,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         //68.65.123.130    OLD
         //198.187.29.73
 
-        this.uri = 'https://backendv2.openlair.edutec.science/openlair'; //live
+        this.uri = 'https://backend.openlair.edutec.science/openlair'; //live
       }
 
       _createClass(DataService, [{
